@@ -1,7 +1,9 @@
 # Requirement
 
-* Allow a GET on /Score/(number) to return the number of record where Score is above the provided number, from the attached json file.
+* Allow a GET on /Score/(number) to return the number of record where Score is above the provided number, from the json file.
 * Allow for the update of the score of a player, which should be saved into that same file.
+
+https://github.com/onshop/omnio/blob/main/storage/app/json/scores.json
 
 # Implementation
 
